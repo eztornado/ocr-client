@@ -49,7 +49,7 @@ flutter test                      # tests
 
 Al primer arranque la app abre el diálogo de Ajustes, donde se introducen:
 
-- **URL base**: `https://ocr.reigreengroup.com` (sin barra final).
+- **URL base**: `` (sin barra final).
 - **API key**: la clave del microservicio (header `X-API-Key`).
 
 Ambos valores se guardan en
