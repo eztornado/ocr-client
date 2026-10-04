@@ -1,7 +1,7 @@
 # cliente_ocr
 
-Cliente de escritorio (Flutter/Linux) para el microservicio OCR de Reigreen
-(`https://ocr.reigreengroup.com`). Permite configurar la API key, elegir el tipo
+Cliente de escritorio (Flutter/Linux) para el microservicio OCR
+(`https://github.com/eztornado/ocr-microservice`). Permite configurar la API key, elegir el tipo
 de documento, adjuntar un PDF o una imagen y recibir el texto OCR en la misma
 ventana, sin bloquear la UI mientras se procesa.
 
